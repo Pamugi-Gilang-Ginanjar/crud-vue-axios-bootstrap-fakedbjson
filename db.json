@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pamugi"
+    },
+    {
+      "id": 2,
+      "name": "Gilang"
+    },
+    {
+      "name": "Ginanjar",
+      "id": 3
+    }
+  ]
+}
