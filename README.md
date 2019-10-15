@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # democrud
 
 ## Project setup
@@ -28,6 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# crud-vue-axios-bootstrap-fakedbjson
->>>>>>> de6b60141126433b45170131079aa26a888d2988
