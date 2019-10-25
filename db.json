@@ -9,8 +9,12 @@
       "name": "Gilang"
     },
     {
-      "name": "Ginanjar",
-      "id": 3
+      "id": 3,
+      "name": "Ginanjar"
+    },
+    {
+      "id": 4,
+      "name": "Kartasasmita"
     }
   ]
 }
