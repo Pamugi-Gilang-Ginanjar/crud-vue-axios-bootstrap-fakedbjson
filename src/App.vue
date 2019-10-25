@@ -23,7 +23,7 @@
             <tr>
               <td>{{ user.name }}</td>
               <td><button class="btn btn-primary btn-sm" @click="edit(user)">Edit</button></td>
-              <td><button class="btn btn-primary btn-sm" @click="del(user)">Delete</button></td>
+              <td><button class="btn btn-primary btn-sm" @click="del(user)">Hapus</button></td>
             </tr>
           </tbody>
         </table>
